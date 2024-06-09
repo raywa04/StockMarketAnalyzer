@@ -1,4 +1,4 @@
-# Real-Time Stock Market Dashboard
+# Stock Market Dashboard
 
 This project is a full-stack web application that provides real-time stock market data visualization. It uses a modern front-end with React and Bootstrap, and a back-end API built with Flask and Spark/PySpark for data processing. The application is containerized using Docker.
 
