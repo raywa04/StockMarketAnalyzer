@@ -42,6 +42,12 @@ Start the application using Docker Compose:
 
 docker-compose up
 
+### Contributing 
+If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+### License
+This project is open source and available under the MIT License.
+
 ### 5. Access the Application
 
 Open your web browser and navigate to http://localhost:3000/ to see the application.
